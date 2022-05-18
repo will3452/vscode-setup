@@ -1,0 +1,29 @@
+cdnjs - jake wilson
+code spell checker - streen slide software
+color highlight - sergii N
+customize UI - iocave
+docker - microsft
+DotENV - mikestead
+Duplicate action - mrmlnc
+ESlint - microsoft
+file-icons - file-icons 
+Import cost - Wix
+Laravel Blade Snippets - winnie lin
+Laravel goto view - codingyu
+live server - ritwick dey
+monkey patch - iocave
+palenight theme - olaolu olawuyi
+php cs fixer - junstyle
+php docBlocker - neil brayfield
+php formatter - sophisticode
+php intelephense - ben mewburn
+php namespace resolver - mehedi hassan
+phpcs - loannis kappas
+phpfmt - kokorin
+prettier - prettier
+short js doc - miguel yax
+simple new file - dimitri tarnavski
+tailwindcss intellisense - tailwind labs
+toggle - peng lv
+vetur - pine wu
+
