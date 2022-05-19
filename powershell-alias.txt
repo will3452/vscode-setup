@@ -1,0 +1,30 @@
+set-alias -name eth -value get-netadapter
+function gtproject { cd "E:\projects\" }
+function bru {ssh -p 65002 u619105578@151.106.122.2}
+function myssh {ssh -p 65002 u222959497@151.106.122.2}
+function artisan { php artisan }
+function model($a) {php artisan make:model $a -m}
+function controller($a) {php artisan make:controller $a}
+function serve {php artisan serve}
+function migrate {php artisan migrate}
+function fresh {php artisan migrate:fresh}
+function seed($a) {php artisan db:seed $a}
+function request($a) {php artisan make:request $a}
+function notif($a) {php artisan make:notification $a}
+function rule($a) {php artisan make:rule $a}
+function seeder($a) {php artisan make:seeder $a}
+function factory($a) {php artisan make:factory $a}
+function migration($a) {php artisan make:migration $a}
+function test($a, $b) {php artisan make:test $a $b}
+function policy($a, $b) {php artisan make:policy $a $b}
+function observer($a, $b) {php artisan make:observer $a --model=$b}
+function tinker {php artisan tinker}
+function rollback($a) {php artisan migrate:rollback $a}
+function request($a) {php artisan make:request $a}
+function genpol{php artisan generate:policy}
+
+function gadd {git add .}
+function gwip {git commit -m "wip"}
+function gstat {git status}
+
+function nova($a1, $a2, $a3) {php artisan nova:$a1 $a2 $a3}
