@@ -127,9 +127,11 @@
     /**
     * Window Settings
     **/
-    // "window.nativeTabs": true,
-    "window.titleBarStyle": "native",
-    "customizeUI.titleBar": "inline",
+    // Note for Windows users:
+    // Unfortunately, "Full-bleed" isn't possible in Windows.
+    // The best you can do is use the native "Windows" window
+    // style and add these CSS selectors to clean it up further.
+    "window.menuBarVisibility": "toggle",
     "customizeUI.stylesheet": {
         ".editor .title": "background: transparent !important;",
         ".editor .title .label-container": "visibility: hidden;",
